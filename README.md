@@ -1,34 +1,34 @@
 # Competative_Programming_Java
 Question and Solution of Core Java.
 
-- Binary Add
+- <b>Binary Add</b>
   <p>Program to Calculate Addition of Binary Number's</p>
   
-- Char String
+- <b>Char String</b>
   <p>Program to convert a character to a String and vice-versa</p>
   
-- Compund Interest
+- <b>Compund Interest</b>
   <p>Program to calculate Compund Interest (C.I.)</p>
   
-- Even Odd 
+- <b>Even Odd </b>
   <p>Program to find whether the input is even or odd</p>
   
-- Leap Year
+- <b>Leap Year</b>
   <p>Program to find whether the input Year is Leap or Not</p>
   
-- Power
+- <b>Power</b>
   <p>Program to calculate The Power of a number using Math Library</p>
   
-- Quotient & Remainder
+- <b>Quotient & Remainder</b>
   <p>Program to calculate the Quotient and Remainder</p>
   
-- Simple Interest
+- <b>Simple Interest</b>
   <p>Program to calculate Simple Interest (S.I.)</p>
   
-- Summation of Complex Number
+- <b>Summation of Complex Number</b>
   <p>Program to calculate the SUM of Complex Number's without using any special Package</p>
   
-- Vowel Consonant
+- <b>Vowel Consonant</b>
   <p>Program to calculate the Vowel && Consonant</p>
   
 ### Note : 
