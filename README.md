@@ -32,4 +32,4 @@ Question and Solution of Core Java.
   <p>Program to calculate the Vowel && Consonant</p>
   
 ### Note : 
-If you trouble in any type of Competatie Question then you can contact me or comment here...
+If you have any type of Competatie Question then you can DM me on <b><a href="https://t.me/its_seraj">Telegram</a>...</b>
